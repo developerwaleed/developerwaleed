@@ -22,7 +22,7 @@ I am on the way to be a Full Stack Developer <img src="https://media.giphy.com/m
 - 🔭 I’m working studying computer science and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-amjad-51930014a/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Casper-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-amjad-51930014a/)
 
 ---
 
