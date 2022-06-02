@@ -17,9 +17,9 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am on the way to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+On the way to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- 🔭 I’m working studying computer science and contributing to frontend and backend for building web applications.
+- 🔭 I’m studying computer science and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Casper-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-amjad-51930014a/)
@@ -45,6 +45,7 @@ I am on the way to be a Full Stack Developer <img src="https://media.giphy.com/m
 ---
 
 ### 🔥 &nbsp; My Stats :
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=caasperr&show_icons=true&theme=vision-friendly-dark&hide_border=true" />|
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caasperr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
