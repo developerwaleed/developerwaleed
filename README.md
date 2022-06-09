@@ -4,7 +4,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=caasperr&style=flat-square&color=blue" alt=""></p>
 
 ```JavaScript
-const aboutFelixOuma = {
+const aboutWaleedAmjad = {
     fullName: "Waleed Amjad",
     pronouns: ["He", "Him"],
     nationality: "Pakistan",
@@ -68,7 +68,7 @@ On the way to be a Full Stack Developer <img src="https://media.giphy.com/media/
 
 [![](https://img.shields.io/badge/LinkedIn-Waleed%20Amjad-blue)](https://www.linkedin.com/in/waleed-amjad-51930014a/)
 [![](https://img.shields.io/badge/Email-Waleed%20Amjad-red)](mailto:waleedamjad99@hotmail.com)
-[![](https://twitter.com/developerwaleed)](https://twitter.com/Felix_Atonoh)
+[![](https://img.shields.io/badge/Twitter-Waleed%20Amjad-blue)](https://twitter.com/developerwaleed)
 
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
