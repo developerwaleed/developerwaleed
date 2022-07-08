@@ -61,7 +61,7 @@ On the way to be a Full Stack Developer <img src="https://media.giphy.com/media/
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=caasperr&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Casper github stats" /> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caasperr&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
 </div>
-  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=caasperr&theme=dark&background=0D1117" alt="Nazarov Asadbek" /></div>
+  <div align="center"><img height="auto" width="91%" src="https://streak-counter-cassperr.herokuapp.com/?user=caasperr&theme=dark&background=0D1117" alt="Nazarov Asadbek" /></div>
 
 > **Let's Connect**
 
