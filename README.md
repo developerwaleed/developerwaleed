@@ -34,7 +34,7 @@ On the way to be a Full Stack Developer <img src="https://media.giphy.com/media/
 - 🔭 I’m studying computer science and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Casper-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-amjad-51930014a/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-developerwaleed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developerwaleed/)
 
 ---
 
@@ -58,14 +58,14 @@ On the way to be a Full Stack Developer <img src="https://media.giphy.com/media/
 
 ### 🔥 &nbsp; My Stats :
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=caasperr&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Casper github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caasperr&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=developerwaleed&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Waleed's github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerwaleed&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
 </div>
-  <div align="center"><img height="auto" width="91%" src="https://streak-counter-cassperr.herokuapp.com/?user=caasperr&theme=dark&background=0D1117" alt="Casper's Streak Details" /></div>
+  <div align="center"><img height="auto" width="91%" src="https://streak-counter-cassperr.herokuapp.com/?user=developerwaleed&theme=dark&background=0D1117" alt="Waleed's Streak Details" /></div>
 
 > **Let's Connect**
 
-[![](https://img.shields.io/badge/LinkedIn-Waleed%20Amjad-blue)](https://www.linkedin.com/in/waleed-amjad-51930014a/)
+[![](https://img.shields.io/badge/LinkedIn-Waleed%20Amjad-blue)](https://www.linkedin.com/in/developerwaleed/)
 [![](https://img.shields.io/badge/Email-Waleed%20Amjad-red)](mailto:waleedamjad99@hotmail.com)
 [![](https://img.shields.io/badge/Twitter-Waleed%20Amjad-blue)](https://twitter.com/developerwaleed)
 
