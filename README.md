@@ -33,7 +33,7 @@ On the way to be a Full Stack Developer <img src="https://media.giphy.com/media/
 
 - 🔭 I’m studying computer science and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I solve problems on HackerRack and frontend Mentor and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-developerwaleed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developerwaleed/)
 
 ---
@@ -58,7 +58,6 @@ On the way to be a Full Stack Developer <img src="https://media.giphy.com/media/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" alt="Eslint" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/tree/master/icons/canva" alt="Canva" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCODE" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" alt="Dev" width="40" height="40"/>
