@@ -10,8 +10,8 @@ const aboutWaleedAmjad = {
     nationality: "Pakistan",
     jobStatus: ["Student at Microverse"],
     hobbies: ["Play Guitar","Reading","Watching documentaries","Produce Songs","Solving coding challenges"],
-    techStack:["HTML","CSS","JavaScript","SASS","Tailwind CSS","Bootstrap", "WebPack", "Jest"],
-    isWorkingNow: false,
+    techStack:["HTML","CSS","JavaScript","SASS","Tailwind CSS","Bootstrap", "WebPack", "Jest","Ruby","ROR","NodeJS","NextJS","ASP.net Core","C#"],
+    isWorkingNow: True,
     educationLevel: {
         bachlorsDegree: "BS in Computer Science",
         isCompleted: false,
@@ -19,7 +19,7 @@ const aboutWaleedAmjad = {
     Email: "waleedamjad99@hotmail.com",
     socialMedias: ["Instagram", "Linkedin", "Twitter", "Facebook"],
     codingEnviroment: "Github",
-    nowLearning: ["Full stack web developement at Microverse"],
+    nowLearning: ["NEXTJS"],
     lookingForNewOpportunities: true    
 }
 ```
@@ -29,7 +29,7 @@ const aboutWaleedAmjad = {
 
 ### :woman_technologist: &nbsp;About Me :
 
-On the way to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 - 🔭 I’m studying computer science and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
