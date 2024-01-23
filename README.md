@@ -1,8 +1,6 @@
 ## Hi there 👋 
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="70">
 
-<p><img src="https://komarev.com/ghpvc/?username=caasperr&style=flat-square&color=blue" alt=""></p>
-
 ```JavaScript
 const aboutWaleedAmjad = {
     fullName: "Waleed Amjad",
