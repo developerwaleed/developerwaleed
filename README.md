@@ -7,8 +7,8 @@
 Hello, I'm **Waleed** – a passionate **Software Engineer** who transforms complex problems into elegant solutions. With a strong foundation in both backend and frontend development, I specialize in building scalable, maintainable applications that make a real impact.
 
 ## 💻 Technical Arsenal
-* **Backend Development:** Building robust systems with Django, Node.js, ASP.NET Core, and Ruby on Rails
-* **Frontend Development:** Crafting responsive UIs using React.js, Next.js, and TailwindCSS
+* **Backend Development:** Building strong systems with Django, Node.js, ASP.NET Core, and Ruby on Rails
+* **Frontend Development:** Creating responsive UIs using React.js, Next.js, and TailwindCSS
 * **DevOps & Cloud:** Orchestrating with Docker, GitHub Actions, Jenkins, and cloud platforms
 
 ## 🚀 Featured Projects
@@ -17,7 +17,7 @@ Hello, I'm **Waleed** – a passionate **Software Engineer** who transforms comp
 Led the development of an innovative platform that revolutionizes automotive photography through AI:
 * Engineered an advanced AI system for intelligent background replacement and enhancement
 * Implemented a scalable architecture supporting both web and mobile platforms
-* Developed a robust API system enabling seamless third-party integrations
+* Developed a strong API system enabling seamless third-party integrations
 * Created automated image processing pipelines for license plate coverage and image upscaling
 * Achieved significant reduction in photoshoot costs and time for dealerships
 
@@ -32,7 +32,7 @@ Played a key role in developing an AI-driven platform that transforms affiliate 
 Developed a versatile chatbot solution with custom knowledge base training:
 * Created an intuitive API for seamless website integration
 * Implemented dynamic training system for personalized responses
-* Built robust conversation handling with context awareness
+* Built strong conversation handling with context awareness
 
 ## 🌱 Current Learning Journey
 * Mastering advanced data structures and algorithmic optimization
