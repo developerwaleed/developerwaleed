@@ -42,8 +42,6 @@ Developed a versatile chatbot solution with custom knowledge base training:
 
 ## 💡 Beyond the Code
 * **Music Producer & Luthier:** Crafting both melodies and instruments - from producing tracks to precise guitar setups and repairs
-* **Recent Mac Convert:** Embracing the Apple ecosystem after years of Windows expertise
-* **Productivity Advocate:** Optimizing workflows for maximum developer efficiency
 * **World Explorer:** Planning adventures when not crafting code or music
 
 ## 🤝 Let's Connect
