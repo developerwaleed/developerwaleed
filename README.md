@@ -56,5 +56,5 @@ Developed a versatile chatbot solution with custom knowledge base training:
 
 ---
 <div align="center">
-  <i>⚡ Fun fact: When I'm not pushing code, I'm either perfecting my hair care routine or planning my next adventure! 🌍</i>
+  <i>⚡ Fun fact: The first website ever (info.cern.ch) is still online today.</i>
 </div>
